@@ -1,8 +1,7 @@
 #include <WiFi.h>
 
 // Replace with your network credentials
-//const char* ssid     = "AndroidAP3DEC";  //WIFI Name
-//const char* password = "electroniClinic";  //WIFI Password
+
 const char* ssid = "KFG_EMS_WIFI";
 const char* password = "Kfg#2!EMS@Passw0rd";
 
